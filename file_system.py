@@ -2,7 +2,6 @@
 File: file_system.py
 Author: Andrew Tang
 Date: 12/1/2022
-Lab Section: Section 45
 Email:  andrew73@umbc.edu
 Description:  This program simulates a file system with various commands such as cd, ls, mkdir, and etc.
 """
